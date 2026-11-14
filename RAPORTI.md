@@ -1,9 +1,9 @@
 # Raporti i studentit: UrbanBike AI
 
-Studenti: Migele Bishka
-Grupi (nëse punohet në grup):
+Studenti: Klejdi Bozho
+Grupi (nëse punohet në grup): Klejdi Bozho, Migele Bishka, Kledian Miftari
 Data: 2026-11-11
-GitHub-i im: https://github.com/Migelee/urbanbike-ai-migele
+GitHub-i im: https://github.com/thisbluejay/urbanbike-ai
 Figma:
 
 ## Qëllimi
